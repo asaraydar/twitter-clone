@@ -1,11 +1,11 @@
 # Twitter Clone with ReactJS
-not responsive
+NOT RESPONSIVE
 
 A small web app that imitate the desktop web version of twitter site, you can tweet as a single user.
 
 Twitter Clone Demo Link
 
-You can watch the site here Click Me
+You can watch the site here
 
 Topics
 
